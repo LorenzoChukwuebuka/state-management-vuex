@@ -37,7 +37,7 @@ export default {
 }
 .todo {
   border: 1px solid #ccc;
-  background: #41b883;
+  background: #48834d;
   border-radius: 5px;
   text-align: center;
   position: relative;
